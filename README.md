@@ -19,7 +19,7 @@ This repository contains the notes and practice code for image processing with p
 11. Image contour detection.
 
 - [You can refer this notebook for these](notebooks/python_opencv.ipynb)
-- [Codes](codes/src/opencv)
+- [Codes](src/opencv)
 
 ### Pillow:
 
